@@ -1,0 +1,222 @@
+{
+	"success": 1,
+	"message": "success",
+	"data": {
+		"listorder": [{
+			"kode_transaksi": 299588,
+			"status_group_id": 4,
+			"status_id": 4,
+			"status_group_desc": "Dibatalkan",
+			"payment_amount": "63300.00",
+			"tgl_transaksi": "2023-03-15 16:25:15",
+			"total_bayar": "137770.00",
+			"shipping_fee": "0",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299587,
+			"status_group_id": 2,
+			"status_id": 2,
+			"status_group_desc": "Diproses",
+			"payment_amount": "137770.00",
+			"tgl_transaksi": "2023-03-15 14:35:40",
+			"total_bayar": "137770.00",
+			"shipping_fee": "0",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299586,
+			"status_group_id": 2,
+			"status_id": 2,
+			"status_group_desc": "Diproses",
+			"payment_amount": "137770.00",
+			"tgl_transaksi": "2023-03-15 14:25:31",
+			"total_bayar": "137770.00",
+			"shipping_fee": "0",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299584,
+			"status_group_id": 2,
+			"status_id": 2,
+			"status_group_desc": "Diproses",
+			"payment_amount": "76570.00",
+			"tgl_transaksi": "2023-03-15 14:23:46",
+			"total_bayar": "76570.00",
+			"shipping_fee": "0",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299568,
+			"status_group_id": 1,
+			"status_id": 1,
+			"status_group_desc": "Belum Bayar",
+			"payment_amount": "225570.00",
+			"tgl_transaksi": "2023-03-08 14:02:45",
+			"total_bayar": "225570.00",
+			"shipping_fee": "17500",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299564,
+			"status_group_id": 2,
+			"status_id": 2,
+			"status_group_desc": "Diproses",
+			"payment_amount": "0.00",
+			"tgl_transaksi": "2023-03-08 11:05:10",
+			"total_bayar": "125530.00",
+			"shipping_fee": "17500",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299563,
+			"status_group_id": 4,
+			"status_id": 4,
+			"status_group_desc": "Dibatalkan",
+			"payment_amount": "628300.00",
+			"tgl_transaksi": "2023-03-08 10:02:49",
+			"total_bayar": "1131300.00",
+			"shipping_fee": "17500",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299558,
+			"status_group_id": 4,
+			"status_id": 4,
+			"status_group_desc": "Dibatalkan",
+			"payment_amount": "1128300.00",
+			"tgl_transaksi": "2023-03-07 22:13:16",
+			"total_bayar": "1131300.00",
+			"shipping_fee": "17500",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299533,
+			"status_group_id": 4,
+			"status_id": 4,
+			"status_group_desc": "Dibatalkan",
+			"payment_amount": "4961640.00",
+			"tgl_transaksi": "2023-03-01 13:13:00",
+			"total_bayar": "5017440.00",
+			"shipping_fee": "40500",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 299512,
+			"status_group_id": 2,
+			"status_id": 2,
+			"status_group_desc": "Diproses",
+			"payment_amount": "91500.00",
+			"tgl_transaksi": "2023-02-17 15:31:51",
+			"total_bayar": "100000.00",
+			"shipping_fee": "0",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 15501,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2020-05-13 05:48:28",
+			"refund_end_at": null,
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "3231450",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 292659,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-15 05:00:28",
+			"refund_end_at": "2022-06-20",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "11200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 295322,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-21 01:30:21",
+			"refund_end_at": "2022-06-22",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "5200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 295320,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-21 02:00:40",
+			"refund_end_at": "2022-06-22",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "5200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 295065,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-21 02:00:47",
+			"refund_end_at": "2022-06-22",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "5200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 295890,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-23 02:30:32",
+			"refund_end_at": "2022-06-23",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "5200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}, {
+			"kode_transaksi": 295889,
+			"status_group_id": 5,
+			"status_id": 5,
+			"status": "Refund selesai",
+			"tgl_transaksi": "2022-06-23 04:01:09",
+			"refund_end_at": "2022-06-23",
+			"flag_processed": 11,
+			"status_group_desc": "Pengembalian",
+			"total_bayar": "5200",
+			"gift_hadiah": null,
+			"gift_poin": null
+		}],
+		"masterstatus": [{
+			"id": 1,
+			"status": "Belum Bayar",
+			"description": "Menunggu Konfirmasi Pembayaran"
+		}, {
+			"id": 2,
+			"status": "Diproses",
+			"description": "Pesanan Diterima di KlikIndogrosir"
+		}, {
+			"id": 3,
+			"status": "Selesai",
+			"description": "Pesanan Diterima oleh Customer"
+		}, {
+			"id": 4,
+			"status": "Dibatalkan",
+			"description": "Pesanan Dibatalkan"
+		}, {
+			"id": 5,
+			"status": "Pengembalian",
+			"description": "Dalam Proses Pengembalian Dana"
+		}]
+	}
+}

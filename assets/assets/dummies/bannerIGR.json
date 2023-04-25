@@ -1,0 +1,46 @@
+{
+	"success": 1,
+	"message": "OK",
+	"banner_igr": [
+            {
+                "id": 101,
+                "title": "Super Promo",
+                "url": "https://comprof.s3.ap-southeast-1.amazonaws.com/PoinIGR/Banner/SP-NEW.jpg",
+                "member_type_id": 2,
+                "start_date": "2023-03-01",
+                "end_date": "2023-12-31"
+            },
+            {
+                "id": 102,
+                "title": "Harga Hemat",
+                "url": "https://comprof.s3.ap-southeast-1.amazonaws.com/PoinIGR/Banner/HH-new.jpg",
+                "member_type_id": 2,
+                "start_date": "2023-03-01",
+                "end_date": "2023-12-31"
+            },
+            {
+                "id": 138,
+                "title": "Promo Dijamin Laku",
+                "url": "https://comprof.s3.ap-southeast-1.amazonaws.com/PoinIGR/Banner/PDL-ALL-REV.jpg",
+                "member_type_id": 2,
+                "start_date": "2023-04-01",
+                "end_date": "2023-04-15"
+            },
+            {
+                "id": 141,
+                "title": "Produk Segar",
+                "url": "https://comprof.s3.ap-southeast-1.amazonaws.com/PoinIGR/Banner/PLODUK-SEGAL.jpg",
+                "member_type_id": 2,
+                "start_date": "2023-04-01",
+                "end_date": "2023-04-15"
+            },
+            {
+                "id": 142,
+                "title": "Indogrosir Fair",
+                "url": "https://comprof.s3.ap-southeast-1.amazonaws.com/PoinIGR/Banner/IGR-FAIR.jpg",
+                "member_type_id": 2,
+                "start_date": "2023-04-01",
+                "end_date": "2023-04-15"
+            }
+        ]
+}

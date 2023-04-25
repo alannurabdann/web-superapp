@@ -1,0 +1,39 @@
+{
+    "success": 1,
+    "message": "OK",
+    "data": [
+        {
+            "kode_transaksi": 472357,
+            "id": 4,
+            "status_id": 4,
+            "description": "Dibatalkan",
+            "payment_amount": "332400.00",
+            "tgl_transaksi": "2023-03-30 11:56:13",
+            "total_bayar": 332400,
+            "shipping_fee": "12000",
+            "url_pic_prod": "https://klikigr.s3-ap-southeast-1.amazonaws.com/images/products/0060410.png"
+        },
+        {
+            "kode_transaksi": 458388,
+            "id": 4,
+            "status_id": 4,
+            "description": "Dibatalkan",
+            "payment_amount": "217505.00",
+            "tgl_transaksi": "2023-03-18 12:44:45",
+            "total_bayar": 217505,
+            "shipping_fee": "12000",
+            "url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0030680.png"
+        },
+        {
+            "kode_transaksi": 454999,
+            "id": 4,
+            "status_id": 4,
+            "description": "Dibatalkan",
+            "payment_amount": "369600.00",
+            "tgl_transaksi": "2023-03-15 12:46:42",
+            "total_bayar": 369600,
+            "shipping_fee": "17500",
+            "url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/1581450.png"
+        }
+    ]
+}

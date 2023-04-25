@@ -1,0 +1,306 @@
+{
+	"success": 1,
+	"message": "Success",
+	"data": [{
+			"userid": 1094,
+			"kodeplu": "0000231",
+			"unit": "BH",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "MAX ISI STAPLER NO.10-1M(1000)  PCK ",
+			"hrg_jual": 3900,
+			"flag_perishable": 0,
+			"flagpromomd": null,
+			"prmd_hrgjual": null,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000230.png",
+			"isAvailable": 1,
+			"divisi": 32,
+			"flagpromosuggest": null,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0000241",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "QUAKER OATCOOKING OATMEAL (REFF) BIRU PCK 200g",
+			"hrg_jual": 10500,
+			"flag_perishable": 0,
+			"flagpromomd": null,
+			"prmd_hrgjual": null,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000240.png",
+			"isAvailable": 1,
+			"divisi": 29,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0000391",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "INDOMILK SUSU KENTAL MANIS PUTIH KLG 370g",
+			"hrg_jual": 11900,
+			"flag_perishable": 0,
+			"flagpromomd": 1,
+			"prmd_hrgjual": 11555,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000390.png",
+			"isAvailable": 1,
+			"divisi": 28,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0000401",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "INDOMILK SUSU KENTAL MANIS CHOCOLATE KLG 370g",
+			"hrg_jual": 11900,
+			"flag_perishable": 0,
+			"flagpromomd": 1,
+			"prmd_hrgjual": 11555,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000400.png",
+			"isAvailable": 1,
+			"divisi": 28,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0000411",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "CAP ENAK KENTAL MANIS PUTIH KLG 370g",
+			"hrg_jual": 11200,
+			"flag_perishable": 0,
+			"flagpromomd": 1,
+			"prmd_hrgjual": 10950,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000410.png",
+			"isAvailable": 1,
+			"divisi": 28,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0000852",
+			"unit": "HGR",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "KAPAL API KOPI BUBUK SPECIAL MIX PCK 10X24g",
+			"hrg_jual": 12200,
+			"flag_perishable": 0,
+			"flagpromomd": 1,
+			"prmd_hrgjual": 11560,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0000850.png",
+			"isAvailable": 1,
+			"divisi": 28,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0001223",
+			"unit": "PCK",
+			"frac": 20,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "SASA BUMBU MASAK  PCK 50g",
+			"hrg_jual": 61000,
+			"flag_perishable": 0,
+			"flagpromomd": null,
+			"prmd_hrgjual": null,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0001220.png",
+			"isAvailable": 1,
+			"divisi": 29,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0001631",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "KONIDIN OBAT BATUK  STR 4'S",
+			"hrg_jual": 2300,
+			"flag_perishable": 0,
+			"flagpromomd": 1,
+			"prmd_hrgjual": 2130,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0001630.png",
+			"isAvailable": 1,
+			"divisi": 30,
+			"flagpromosuggest": 1,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0003061",
+			"unit": "PCS",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "PRONAS CORNED BEEF  KLG 198g",
+			"hrg_jual": 22500,
+			"flag_perishable": 0,
+			"flagpromomd": null,
+			"prmd_hrgjual": null,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0003060.png",
+			"isAvailable": 1,
+			"divisi": 29,
+			"flagpromosuggest": null,
+			"isCigarettes": 0
+		},
+		{
+			"userid": 1094,
+			"kodeplu": "0003071",
+			"unit": "KLG",
+			"frac": 1,
+			"kode_igr": "18",
+			"min_jual": 1,
+			"long_description": "PRONAS CORNED BEEF  KLG 340g",
+			"hrg_jual": 32500,
+			"flag_perishable": 0,
+			"flagpromomd": null,
+			"prmd_hrgjual": null,
+			"url_pic_prod": "https://d4d3nsi9ojt7w.cloudfront.net/images/products/0003070.png",
+			"isAvailable": 1,
+			"divisi": 29,
+			"flagpromosuggest": null,
+			"isCigarettes": 0
+		}
+	],
+	"filter_brand": [{
+			"brg_merk": "ABC"
+		},
+		{
+			"brg_merk": "AQUA"
+		},
+		{
+			"brg_merk": "BEAR BRAND"
+		},
+		{
+			"brg_merk": "BIMOLI"
+		},
+		{
+			"brg_merk": "CAP ENAK"
+		},
+		{
+			"brg_merk": "DETTOL"
+		},
+		{
+			"brg_merk": "FANTA"
+		},
+		{
+			"brg_merk": "FLORA"
+		},
+		{
+			"brg_merk": "FRISIAN FLAG"
+		},
+		{
+			"brg_merk": "GULAKU"
+		},
+		{
+			"brg_merk": "HEXOS"
+		},
+		{
+			"brg_merk": "INDOCAFE"
+		},
+		{
+			"brg_merk": "INDOFOOD"
+		},
+		{
+			"brg_merk": "INDOMIE"
+		},
+		{
+			"brg_merk": "INDOMILK"
+		},
+		{
+			"brg_merk": "KAPAL API"
+		},
+		{
+			"brg_merk": "KONIDIN"
+		},
+		{
+			"brg_merk": "MARJAN"
+		},
+		{
+			"brg_merk": "MAX"
+		},
+		{
+			"brg_merk": "NATUR"
+		},
+		{
+			"brg_merk": "NISSIN"
+		},
+		{
+			"brg_merk": "PEPSODENT"
+		},
+		{
+			"brg_merk": "PIL KITA"
+		},
+		{
+			"brg_merk": "PRONAS"
+		},
+		{
+			"brg_merk": "PROVITAL IMMUNA"
+		},
+		{
+			"brg_merk": "QUAKER"
+		},
+		{
+			"brg_merk": "SASA"
+		},
+		{
+			"brg_merk": "TELUR"
+		},
+		{
+			"brg_merk": "ULTRA"
+		},
+		{
+			"brg_merk": "VITALIS"
+		},
+		{
+			"brg_merk": "YAKULT"
+		}
+	],
+	"master_sorting": [{
+			"id": 1,
+			"keterangan": "Harga Termurah",
+			"created_at": null,
+			"updated_at": null
+		},
+		{
+			"id": 2,
+			"keterangan": "Harga Termahal",
+			"created_at": null,
+			"updated_at": null
+		},
+		{
+			"id": 3,
+			"keterangan": "Nama [ A - Z ]",
+			"created_at": null,
+			"updated_at": null
+		},
+		{
+			"id": 4,
+			"keterangan": "Nama [ Z - A ]",
+			"created_at": null,
+			"updated_at": null
+		}
+	],
+	"min_price": 0,
+	"max_price": 9999999999
+}
